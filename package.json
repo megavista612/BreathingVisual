@@ -1,7 +1,7 @@
 {
+  "homepage": "https://megavista612.github.io/BreathingVisual/",
   "name": "box-breathing-visualization",
   "version": "0.1.0",
-  "homepage": "https://megavista612.github.io/BreathingVisual/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
